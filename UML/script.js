@@ -9,7 +9,6 @@ var DIV1 = document.getElementById("a");
 var DIV2 = document.getElementById("b");
 var btn = document.getElementById("pol");
 var flaga = false;
-//Pobieranie pozycji Diva
 
 setInterval(function()
 {
